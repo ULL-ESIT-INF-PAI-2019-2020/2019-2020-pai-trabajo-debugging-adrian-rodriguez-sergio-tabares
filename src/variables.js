@@ -21,7 +21,7 @@ function chronoRaiseTo(base, exponent) {
     if((counter % 2) === 0) {
       result = result * base;
       if(counter === (exponent * 2)) {
-        console.log("The result of", base, " ^ ", exponent, " = ", result);
+        console.log("The result of", base, "^", exponent, "=", result);
         clearInterval(chrono);
       }
     }

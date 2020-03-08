@@ -7,7 +7,6 @@ function numberToString(n, base = 10) {
   do {
     result = String(n % base) + result;
     n /= base;
-    //n = Math.floor(n / base);
   } while (n > 0);
   return sign + result;
 }

@@ -3,18 +3,13 @@
    Grado en Ingeniería Informática
    Asignatura: Programación de Aplicaciones Interactivas
    Curso: 3º
-   Práctica 4 PAI - El problema de las 8 reinas
-   Autor: Adrián Epifanio Rodríguez Hernández
-   Correo: alu0101158280@ull.edu.es
-   Fecha: 04/03/2020
-   Contenido: Ejecicios clase miercoles 4 marzo
-Referencias:  Enunciado de la práctica:
-              https://github.com/fsande/PAI-P04-8Queens/blob/master/2019-2020_p04_8Queens.md
-              Repositorio git con este (y otros) códigos:
-              https://github.com/ULL-ESIT-INF-PAI-2019-2020/practica-4-8queens-AdrianEpi
-Historial de revisiones
-              04/03/2020 - Creación (primera versión) del código
-              04/03/2020 - Versión presentada para evaluación
+   Presentación: JavaScript Debuggers
+   Autores: Sergio Tabares Hernández
+            Adrián Epifanio Rodríguez Hernández
+   Correos: alu0101124896@ull.edu.es
+            alu0101158280@ull.edu.es
+   Fecha: 27/02/2020
+   Contenido: Contiene ejemplo del problema de las 8 reinas resuelto
 */
 
 /**

@@ -1,0 +1,58 @@
+{
+  // Use IntelliSense to learn about possible attributes. (ctrl + space)
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    // Config for variables.js
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch variables.js",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/variables.js"
+    },
+    // Config for logpoint.js
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch logpoint.js",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/logpoint.js"
+    },
+    // Config for breakpoint.js
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch breakpoints.js",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/breakpoint.js"
+    },
+    // Config for problem1.js
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch problem1.js",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/problemsVSC/problem1.js"
+    },
+    // Config for problem1Solved.js
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch problem1Solveds.js",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/problemsVSC/problem1Solved.js"
+    },
+  ]
+}
